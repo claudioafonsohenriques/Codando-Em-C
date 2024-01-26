@@ -23,6 +23,6 @@ int main() {
     int quantidadePalavras = contarPalavras(frase);
 
     printf("Quantidade de palavras: %d\n", quantidadePalavras);
-
+ printf("Fim...");
     return 0;
 }
